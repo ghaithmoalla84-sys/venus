@@ -1,0 +1,4 @@
+PyQt5>=5.15
+pytest>=8.0
+pytest-cov>=4.0
+pytest-qt>=4.0
